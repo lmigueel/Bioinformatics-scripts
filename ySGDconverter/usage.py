@@ -4,8 +4,8 @@
 #Saccharomyces Genome Database (SGD) ID to Gene name converter and vice versa.
 ### Option 1: Convert SGDID to Gene name
 ### Option 2: Convert Gene name to SGDID
-	
-	version 1.0
+#version 1.0
+
 import ySGDconverter
 
 # Option 1
