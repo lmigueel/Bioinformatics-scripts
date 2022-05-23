@@ -1,3 +1,7 @@
+
+[![DOI](https://sandbox.zenodo.org/badge/449070899.svg)](https://sandbox.zenodo.org/badge/latestdoi/449070899)
+
+
 # Bioinformatics-scripts
 Repository for Bioinformatics scripts and basic programs developed by L.M.C
 
