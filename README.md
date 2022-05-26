@@ -10,4 +10,4 @@ Created and populated by Lucas Miguel de Carvalho.
 
 Citation:
 
-Lucas Miguel de Carvalho. (2022). Bioinformatics scripts. Zenodo. https://zenodo.org/badge/latestdoi/449070899.
+Lucas Miguel de Carvalho. (2022). Bioinformatics-scripts: BioinfoScripts 0.1 (0.1). Zenodo. https://doi.org/10.5281/zenodo.6583575
