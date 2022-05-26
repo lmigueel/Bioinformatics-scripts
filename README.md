@@ -1,5 +1,4 @@
-
-[![DOI](https://sandbox.zenodo.org/badge/449070899.svg)](https://sandbox.zenodo.org/badge/latestdoi/449070899)
+[![DOI](https://zenodo.org/badge/449070899.svg)](https://zenodo.org/badge/latestdoi/449070899)
 
 
 # Bioinformatics-scripts
