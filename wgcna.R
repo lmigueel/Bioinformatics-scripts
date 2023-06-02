@@ -36,7 +36,7 @@ plot(sampleTree, main = "Sample clustering to detect outliers", sub="", xlab="",
 
 powers = c(c(1:10), seq(from = 12, to=30, by=2))
 
-sft = pickSoftThreshold(Exp, powerVector = powers, verbose = 5)
+sft = pickSoftThreshold(Exp, powerVector = powers, verbose = 5,  networkType = "signed")
 
 sizeGrWindow(9, 5)
 par(mfrow = c(1,2))
